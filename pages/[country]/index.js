@@ -1,6 +1,5 @@
 import axios from "axios";
 import Error from "next/error";
-
 import Thumbnail from "../../components/Thumbnail";
 
 const Home = ({ shows, country, statusCode }) => {
