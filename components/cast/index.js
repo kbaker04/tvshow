@@ -1,4 +1,4 @@
-import Thumbnail from "../thumbnail";
+import Thumbnail from "../Thumbnail";
 
 const Cast = ({ cast }) => {
   const renderCast = () => {
